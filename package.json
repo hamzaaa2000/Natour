@@ -1,0 +1,23 @@
+{
+  "name": "natour",
+  "version": "1.0.0",
+  "description": "Landing page for natour",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzaaa2000/Natour.git"
+  },
+  "author": "hamza nachan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamzaaa2000/Natour/issues"
+  },
+  "homepage": "https://github.com/hamzaaa2000/Natour#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  },
+  "dependencies": {}
+}
