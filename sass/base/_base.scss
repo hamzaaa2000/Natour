@@ -1,0 +1,14 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit; /* inherits mentioned on line 29*/
+}
+
+html{
+    font-size: 62.5%;/* good prac to do it this way instead of in px , it takes 62.5% of browser's default font size of 16px which can be changed by user accordingly and hence better and more user friendly*/ 
+}
+body{
+    box-sizing: border-box;
+}
